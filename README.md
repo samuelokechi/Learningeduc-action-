@@ -1,2 +1,3 @@
 # Learningeduc-action-
-Good 
+Good for all
+active always 
